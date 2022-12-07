@@ -7,7 +7,7 @@ setup(name="sysperf",
       author="W.T.S. Warnapura - IT20084936 , R.H.M.I.D. Rajakaruna - IT20246396 ",
       packages=["sysperf"],
       author_email="IT20246396@my.sliit.lk, IT20084936@my.sliit.lk",
-      url="https://github.com/tharindu-hub/Risk-Management-tool",
+      url="https://github.com/ImeshDilshan/System-Performance-Risk-Assessment-Dashboard.git",
       install_requires=[
             'Flask',
             'psutil'
