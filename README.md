@@ -1,2 +1,14 @@
-# System-Performance-Risk-Assessment-Dashboard
- Real-time CPU, memory, swap, disk, and network performance indicators are displayed in the system performance dashboard. This product is software to see all those things in one frame, including their utilization and information. 
+# sysperf - System Performance Dashboard
+System performance dashboard showing real time cpu, memory, swap, disk and network performance metrics 
+
+# Installing
+pip install sysperf
+
+# Running
+python -m sysperf.perf
+
+# Accessing the dashboard
+http://localhost:4000
+
+# Dashboard Sample
+![Dashboard](samples/sample_report.png)
